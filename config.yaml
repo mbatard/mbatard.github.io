@@ -3,5 +3,5 @@ languageCode: "fr-fr"
 title: "CalmOps"
 theme: "clarity"
 
-mainSections:
-  - posts
+#mainSections:
+#  - posts

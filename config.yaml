@@ -2,3 +2,6 @@ baseURL: "https://calmops.fr/"
 languageCode: "fr-fr"
 title: "CalmOps"
 theme: "clarity"
+
+mainSections:
+  - posts

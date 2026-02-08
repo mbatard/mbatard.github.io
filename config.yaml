@@ -5,3 +5,7 @@ theme: "clarity"
 
 #mainSections:
 #  - posts
+
+caches:
+  images:
+    dir: :cacheDir/images
